@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.5" type="template">
+<name>customtemplate</name>
+<creationDate>2018-09-05</creationDate>
+<author>TemplateToaster</author>
+<authorEmail>example@templatetoaster.com</authorEmail>
+<authorUrl>https://templatetoaster.com</authorUrl>
+<copyright>Copyright© 2009-2018</copyright>
+<license>GNU/GPL</license>
+<version>1.0.2</version>
+<description>My First Custom Template</description>
+<files>
+<filename>index.php</filename>
+<filename>templateDetails.xml</filename>
+<folder>images</folder>
+<folder>css</folder>
+</files>
+<positions>
+<position>id1</position>
+<position>id2</position>
+<position>id3</position>
+<position>id4</position>
+</positions>
+</extension>
